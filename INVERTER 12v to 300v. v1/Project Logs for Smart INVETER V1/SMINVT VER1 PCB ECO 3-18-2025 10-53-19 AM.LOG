@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Cx4 Old Footprint=CN1.5 New Footprint=CN2-O
+Change Component Comment : Designator=Cx4 Old Comment=68nF New Comment=1nF
+Added Room: Name=inverter 1

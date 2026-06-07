@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C2 Old Footprint=HDR2 New Footprint=HED2
+Change Component Footprint: Designator=C9 Old Footprint=HDR2 New Footprint=HED2
+Change Component Comment : Designator=C2 Old Comment=Header2 New Comment=Header 2
+Change Component Comment : Designator=C9 Old Comment=Header2 New Comment=Header 2
+Change component parameters: Designator = "C2" ("C2"); Footprint = "HDR2"; UniqueID = "\WWCSAAWN" ("\WWCSAAWN")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "HDR2"; UniqueID = "\BFXUJHQZ" ("\BFXUJHQZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Room: Name=inverter 1

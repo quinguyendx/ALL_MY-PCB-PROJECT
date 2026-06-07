@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetQ4_1 Pin=R1-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R1-2
+Removed Pin From Net: NetName=NetQ3_1 Pin=R3-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R3-2
+Change Component Footprint: Designator=R1 Old Footprint=RES-1/4W-SMALL New Footprint=RES-1/4W
+Change Component Footprint: Designator=R3 Old Footprint=RES-1/4W-SMALL New Footprint=RES-1/4W
+Change Component Comment : Designator=R1 Old Comment=10 New Comment=Res
+Change Component Comment : Designator=R3 Old Comment=10 New Comment=Res
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R3-2
+Added Room: Name=inverter 1

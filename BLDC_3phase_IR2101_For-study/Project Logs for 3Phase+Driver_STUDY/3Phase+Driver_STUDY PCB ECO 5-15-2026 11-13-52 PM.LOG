@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=Cx2-1
+Removed Pin From Net: NetName=GND Pin=Cx3-1
+Added Pin To Net: NetName=AMPE1 Pin=Cx2-1
+Added Pin To Net: NetName=AMPE1 Pin=Cx3-1
+Added Room: Name=3Phase+Driver_STUDY

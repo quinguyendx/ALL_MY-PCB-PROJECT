@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=LIU Pin=C20-1
+Removed Pin From Net: NetName=LIV Pin=C20-2
+Removed Pin From Net: NetName=LIW Pin=C20-3
+Removed Pin From Net: NetName=HIU Pin=C20-4
+Removed Pin From Net: NetName=HIV Pin=C20-5
+Removed Pin From Net: NetName=HIW Pin=C20-6
+Removed Pin From Net: NetName=TIM1_BKIN Pin=C23-1
+Removed Pin From Net: NetName=AMPE-IN Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C23-3
+Removed Pin From Net: NetName=+12 Pin=C24-1
+Removed Pin From Net: NetName=+3V3 Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C24-3
+Removed Member From Class: ClassName=3Phase+Driver_STUDY Member=C20
+Removed Member From Class: ClassName=3Phase+Driver_STUDY Member=C23
+Removed Member From Class: ClassName=3Phase+Driver_STUDY Member=C24
+Added Component: Designator=PUZG(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ZF Pin=PUZG-1
+Added Pin To Net: NetName=GND Pin=PUZG-2
+Added Member To Class: ClassName=3Phase+Driver_STUDY Member=Component PUZG 0805
+Added Room: Name=3Phase+Driver_STUDY

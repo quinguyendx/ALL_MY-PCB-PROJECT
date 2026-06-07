@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetCx4_2 Pin=Cx5-1
+Removed Pin From Net: NetName=GND Pin=Cx5-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R3-1
+Removed Pin From Net: NetName=NetQ7_1 Pin=R12-2
+Removed Pin From Net: NetName=NetQ7_1 Pin=R17-2
+Change Component Footprint: Designator=Cx5 Old Footprint=CN1.5 New Footprint=CN2-O
+Change Component Comment : Designator=Cx5 Old Comment=100nF New Comment=1nF
+Added Pin To Net: NetName=GND Pin=Cx5-1
+Added Pin To Net: NetName=NetCx4_2 Pin=Cx5-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R1-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R12-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R17-2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=X1
+Change Net Name : Old Net Name=NetQ7_1 New Net Name=X2
+Added Room: Name=inverter 1

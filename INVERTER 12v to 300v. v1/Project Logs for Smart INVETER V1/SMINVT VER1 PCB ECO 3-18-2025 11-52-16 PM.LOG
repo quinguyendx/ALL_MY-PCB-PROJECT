@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=sutdown Pin=D13-2
+Removed Pin From Net: NetName=sutdown Pin=D15-2
+Removed Pin From Net: NetName=+300 Pin=D18-2
+Removed Pin From Net: NetName=GND Pin=LED2-2
+Removed Pin From Net: NetName=VCC safe Pin=Q10-3
+Removed Pin From Net: NetName=VCC safe Pin=U3-4
+Removed Pin From Net: NetName=-300 Pin=VR3-2
+Removed Pin From Net: NetName=-300 Pin=VR3-3
+Removed Member From Class: ClassName=inverter 1 Member=D13
+Removed Member From Class: ClassName=inverter 1 Member=D15
+Removed Member From Class: ClassName=inverter 1 Member=D16
+Removed Member From Class: ClassName=inverter 1 Member=D17
+Removed Member From Class: ClassName=inverter 1 Member=D18
+Removed Member From Class: ClassName=inverter 1 Member=LED2
+Removed Member From Class: ClassName=inverter 1 Member=Q10
+Removed Member From Class: ClassName=inverter 1 Member=R24
+Removed Member From Class: ClassName=inverter 1 Member=U3
+Removed Member From Class: ClassName=inverter 1 Member=VR3
+Added Pin To Net: NetName=sutdown Pin=Q9-1
+Added Pin To Net: NetName=sutdown Pin=R23-2
+Added Room: Name=inverter 1

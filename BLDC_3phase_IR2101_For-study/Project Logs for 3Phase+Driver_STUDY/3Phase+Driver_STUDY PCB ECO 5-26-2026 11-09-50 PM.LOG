@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+3V3 Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Change Component Footprint: Designator=C22 Old Footprint=CA-ALU-5 New Footprint=CN2-LT
+Change Component Comment : Designator=C22 Old Comment=d5 New Comment=W
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CA-ALU-5"; UniqueID = "\LRZSPLDE" ("\LRZSPLDE")
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=+3V3 Pin=C22-2
+Added Room: Name=3Phase+Driver_STUDY

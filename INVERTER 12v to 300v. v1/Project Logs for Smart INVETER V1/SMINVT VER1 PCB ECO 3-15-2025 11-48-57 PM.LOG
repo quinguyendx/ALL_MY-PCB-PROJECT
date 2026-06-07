@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R6 Old Footprint=RES-1/4W New Footprint=RES-1W-LONG
+Change Component Footprint: Designator=R7 Old Footprint=RES-1/4W New Footprint=RES-1W-LONG
+Added Component: Designator=R?(RES-1W-LONG)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=inverter 1 Member=Component R? Res
+Added Room: Name=inverter 1

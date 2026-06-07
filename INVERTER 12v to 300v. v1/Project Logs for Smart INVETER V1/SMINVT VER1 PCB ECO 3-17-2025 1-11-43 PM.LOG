@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D7 Old Footprint=DIO-5A New Footprint=DIO-5AN
+Change Component Footprint: Designator=D8 Old Footprint=DIO-5A New Footprint=DIO-5AN
+Change Component Footprint: Designator=D9 Old Footprint=DIO-5A New Footprint=DIO-5AN
+Change Component Footprint: Designator=D10 Old Footprint=DIO-5A New Footprint=DIO-5AN
+Change Component Comment : Designator=D7 Old Comment=Diode New Comment=5AN
+Change Component Comment : Designator=D8 Old Comment=Diode New Comment=5AN
+Change Component Comment : Designator=D9 Old Comment=Diode New Comment=5AN
+Change Component Comment : Designator=D10 Old Comment=Diode New Comment=5AN
+Added Room: Name=inverter 1

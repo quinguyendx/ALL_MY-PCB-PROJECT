@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PW Pin=J2-1
+Removed Pin From Net: NetName=PU Pin=J2-3
+Added Pin To Net: NetName=PU Pin=J2-1
+Added Pin To Net: NetName=PW Pin=J2-3
+Added Room: Name=3Phase+Driver_STUDY

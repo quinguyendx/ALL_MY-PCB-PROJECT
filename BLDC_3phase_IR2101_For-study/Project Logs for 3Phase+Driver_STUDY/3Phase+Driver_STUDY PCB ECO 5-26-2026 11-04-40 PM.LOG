@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=+12 Pin=U7-3
+Removed Member From Class: ClassName=3Phase+Driver_STUDY Member=C26
+Removed Member From Class: ClassName=3Phase+Driver_STUDY Member=C27
+Removed Member From Class: ClassName=3Phase+Driver_STUDY Member=C28
+Removed Member From Class: ClassName=3Phase+Driver_STUDY Member=U7
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Room: Name=3Phase+Driver_STUDY

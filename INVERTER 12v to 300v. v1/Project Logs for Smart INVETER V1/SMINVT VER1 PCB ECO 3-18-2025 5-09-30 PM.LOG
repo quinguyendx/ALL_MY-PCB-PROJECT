@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AC1 Pin=T1-11
+Removed Pin From Net: NetName=NetC2_2 Pin=T1-15
+Removed Pin From Net: NetName=NetC2_1 Pin=T1-16
+Added Pin To Net: NetName=NetC2_2 Pin=T1-11
+Added Pin To Net: NetName=NetC2_1 Pin=T1-12
+Added Pin To Net: NetName=AC1 Pin=T1-17
+Added Room: Name=inverter 1

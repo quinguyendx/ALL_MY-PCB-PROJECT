@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=-300 Pin=Q13-2
+Removed Pin From Net: NetName=-300 Pin=Q13-2
+Removed Pin From Net: NetName=-300 Pin=Q14-2
+Removed Pin From Net: NetName=-300 Pin=Q14-2
+Removed Pin From Net: NetName=-300 Pin=R32-1
+Removed Pin From Net: NetName=-300 Pin=R33-1
+Removed Member From Class: ClassName=inverter 1 Member=Cx9
+Removed Member From Class: ClassName=inverter 1 Member=D19
+Removed Member From Class: ClassName=inverter 1 Member=D20
+Removed Member From Class: ClassName=inverter 1 Member=D21
+Removed Member From Class: ClassName=inverter 1 Member=D22
+Removed Member From Class: ClassName=inverter 1 Member=L1
+Removed Member From Class: ClassName=inverter 1 Member=Q11
+Removed Member From Class: ClassName=inverter 1 Member=Q12
+Removed Member From Class: ClassName=inverter 1 Member=Q13
+Removed Member From Class: ClassName=inverter 1 Member=Q14
+Removed Member From Class: ClassName=inverter 1 Member=R26
+Removed Member From Class: ClassName=inverter 1 Member=R27
+Removed Member From Class: ClassName=inverter 1 Member=R28
+Removed Member From Class: ClassName=inverter 1 Member=R29
+Removed Member From Class: ClassName=inverter 1 Member=R30
+Removed Member From Class: ClassName=inverter 1 Member=R31
+Removed Member From Class: ClassName=inverter 1 Member=R32
+Removed Member From Class: ClassName=inverter 1 Member=R33
+Added Component: Designator=Cx7(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-300 Pin=Cx7-1
+Added Pin To Net: NetName=+300 Pin=Cx7-2
+Added Pin To Net: NetName=-300 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R25-2
+Added Pin To Net: NetName=NetJ2_1 Pin=VR2-1
+Added Net: Name=NetJ2_1
+Added Member To Class: ClassName=inverter 1 Member=Component Cx7 100nF
+Added Room: Name=inverter 1

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=LIW Pin=C17-4
+Removed Pin From Net: NetName=LIV Pin=C17-6
+Added Component: Designator=C4(JP3-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613003143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BEMF-U Pin=C4-1
+Added Pin To Net: NetName=BEMF-V Pin=C4-2
+Added Pin To Net: NetName=BEMF-W Pin=C4-3
+Added Pin To Net: NetName=LIV Pin=C17-4
+Added Pin To Net: NetName=LIW Pin=C17-6
+Added Member To Class: ClassName=3Phase+Driver_STUDY Member=Component C4 JP3
+Added Room: Name=3Phase+Driver_STUDY

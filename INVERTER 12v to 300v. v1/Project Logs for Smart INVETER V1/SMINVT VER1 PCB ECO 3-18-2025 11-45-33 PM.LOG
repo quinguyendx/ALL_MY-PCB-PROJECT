@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC safe Pin=Cx8-1
+Removed Pin From Net: NetName=GND Pin=Cx8-2
+Change Component Footprint: Designator=Cx8 Old Footprint=CN2-O New Footprint=CN1.5
+Change Component Comment : Designator=Cx8 Old Comment=100nF New Comment=XXpF
+Added Component: Designator=Cx7(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-300 Pin=Cx7-1
+Added Pin To Net: NetName=+300 Pin=Cx7-2
+Added Pin To Net: NetName=GND Pin=Cx8-1
+Added Pin To Net: NetName=VCC safe Pin=Cx8-2
+Added Member To Class: ClassName=inverter 1 Member=Component Cx7 100nF
+Added Room: Name=inverter 1

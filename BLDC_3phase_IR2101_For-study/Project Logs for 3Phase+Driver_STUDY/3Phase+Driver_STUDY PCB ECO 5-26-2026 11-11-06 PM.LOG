@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C22 Old Footprint=CN2-LT New Footprint=CAPC2012X135N
+Change Component Comment : Designator=C22 Old Comment=W New Comment=approved sub OK
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CN2-LT"; UniqueID = "\XEZEFLRS" ("\XEZEFLRS")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08055C182KAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCDType"; Value = "source*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1374-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0805"; VariantName = "[No Variations]"
+Added Room: Name=3Phase+Driver_STUDY
